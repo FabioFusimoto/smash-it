@@ -7,7 +7,4 @@ Implementação de um ambiente interativo e destrutível, apresentado como proje
 
 ## Tecnologias adotadas
 - [Unreal Engine 4.19.2](https://www.unrealengine.com/en-US/)
-- /\*INSERIR O APEX DESTRUCTION PHYSXLAB \*/
-
-## Setup
-
+- [Blender 2.82](https://www.blender.org/download/releases/2-82/)
